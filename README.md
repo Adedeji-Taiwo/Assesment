@@ -4,7 +4,7 @@ Spykins Tech Assesment
 ## Overview
 A Tailwind landing page test.
 
-![Screenshot](https://github.com/Adedeji-Taiwo/Catlify/blob/main/src/media/images/Screenshot%202022-01-19%20173210.png)
+![Screenshot](https://github.com/Adedeji-Taiwo/Assesment/blob/main/media/images/Screenshot%202022-02-20%20050823.png)
   
 - Live link: https://catlify-app.netlify.app/
 
@@ -22,7 +22,7 @@ You will find below the different third party library used in the project.
 
 - [HTML](https://www.w3schools.com/html/)
 - [CSS](https://www.w3schools.com/css/default.asp)
-- [TAILWIND](https://tailwindcss.com/)
+- [Tailwind](https://tailwindcss.com/)
 - [JavaScript](https://www.w3schools.com/js/default.asp)
 
 
