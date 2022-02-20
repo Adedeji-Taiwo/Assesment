@@ -2,7 +2,7 @@
 Spykins Tech Assesment
 
 ## Overview
-A Tailwind landing page test.
+A landing page test styled with Tailwind CSS.
 
 ![Screenshot](https://github.com/Adedeji-Taiwo/Assesment/blob/main/media/images/Screenshot%202022-02-20%20050823.png)
   
