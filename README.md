@@ -6,7 +6,7 @@ A Tailwind landing page test.
 
 ![Screenshot](https://github.com/Adedeji-Taiwo/Assesment/blob/main/media/images/Screenshot%202022-02-20%20050823.png)
   
-- Live link: https://catlify-app.netlify.app/
+- Live link: https://spykinstest.netlify.app/
 
 ## Third Party Library used.
 
