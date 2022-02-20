@@ -1,0 +1,84 @@
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Cardo", "serif";
+}
+
+html {
+  font-family: "Cardo", "serif";
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+main {
+  flex-grow: 1;
+}
+
+main section:nth-child(1) {
+  background-image: linear-gradient(to top, #fecece, #fff);
+}
+
+#title span {
+  color: #b51010;
+}
+
+#button {
+  border: 1px solid #b51010;
+  color: #b51010;
+}
+
+#button:hover {
+  background-color: hsl(0, 84%, 39%);
+  color: #fff;
+}
+
+#bullet {
+  position: relative;
+  left: 8%;
+}
+
+#house {
+  background-image: url("./media/images/bg-houses.png");
+  width: 100%;
+  height: 300px;
+  background-position: center;
+  background-size: contain;
+  object-fit: cover;
+}
+
+.house {
+  width: 100%;
+  height: 300px;
+  object-fit: cover;
+  object-position: 2% 0;
+}
+
+@media screen and (max-width: 1280px) {
+  #bullet {
+    position: relative;
+    left: 2%;
+  }
+}
+@media screen and (max-width: 768px) {
+  #bullet {
+    position: relative;
+    left: 3%;
+  }
+}
+
+@media screen and (max-width: 580px) {
+  .house {
+    object-fit: contain;
+  }
+  #bullet {
+    position: relative;
+    left: 4%;
+  }
+}
